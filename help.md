@@ -1,29 +1,25 @@
 # Help
 
 Common problems and questions can usually be answered by consulting the
-[FAQ](https://github.com/calzoneman/sync/wiki/Frequently-Asked-Questions) or the
-[user guide](https://github.com/calzoneman/sync/blob/3.0/docs/index.md).
+[FAQ](https://mimicstream.com/) or the
+[user guide](https://mimicstream.com/) (both in developement).
 
-### IRC Support
+### Discord Support
 
-Live support for CyTube is available on
-[6IRC](https://webchat.6irc.net/?channels=cytube).  You can use the previous
-link, or connect your own IRC client to `irc.6irc.net` and join `#cytube`.  IRC
-support is offered on a best-effort basis; you may not get an immediate
-response.  People are typically available to answer questions during USA daytime
-hours.  If you don't get a response after 15 minutes, it probably means no one
-is available.
+Live support for Mimic is available on
+[Discord](https://discord.gg/SFf8ecV). Discord support is offered on a best-effort 
+basis; you may not get an immediate response. If you don't get a response after 
+15 minutes, it probably means no one is available.
 
 ### Email Support
 
-I also provide support via [email](mailto:cyzon@cytu.be).  I aim to respond to
-emails within 24 hours.  You can also email [nuclearace](mailto:nuclearace@cytu.be) if
-I'm not available.
+We also provide support via [email](mailto:social@mimicstream.com).  we aim to respond to
+emails within 5 business day.  You can also email [our founder](mailto:nick@mimicstream.com) if
+you don't hear back or need urgent help.
 
 ### Bug Reports and Feature Requests
 
-Please submit bug reports and feature requests to the [GitHub issue
-tracker](https://github.com/calzoneman/sync/issues).
+Please submit bug reports and feature requests to the [community specialist](social@mimicstream.com).
 
 **When submitting a bug report:**
 
