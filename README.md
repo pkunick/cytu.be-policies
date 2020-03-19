@@ -1,10 +1,8 @@
-# CyTube Policies and Documents
+# Mimic Policies and Documents
 
-**Last updated: 2016-12-01**
+**Last updated: 2020-03-20**
 
-The documents in this repository are specific to https://cytu.be.  Other
-websites using the [CyTube software](https://github.com/calzoneman/sync) may
-choose to implement their own policies.
+The documents in this repository are specific to https://mimicstream.com/.  
 
   * [Terms of Use / DMCA](terms-of-use.md)
   * [Security](security.md)
