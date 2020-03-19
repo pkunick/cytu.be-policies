@@ -1,6 +1,6 @@
 # Security
 
-CyTube takes the privacy and security of its users seriously.  In this policy,
+Mimic takes the privacy and security of its users seriously.  In this policy,
 you will find an explanation of the precautions that are taken to protect
 security and privacy of user data, as well as guidelins for reporting exploits.
 
@@ -8,7 +8,7 @@ security and privacy of user data, as well as guidelins for reporting exploits.
 
 **Please do not report security issues on the public GitHub issue tracker.**
 This puts users at risk because any malicious user can find the vulnerability on
-GitHub and exploit it.  Instead, please send an email to cyzon@cytu.be and
+GitHub and exploit it.  Instead, please send an email to nick@mimicstream.com and
 indicate in the subject line that it is a security issue.  I strive to answer
 emails within 24 hours, however, please allow up to 7 days for me to respond in
 case I am on vacation or otherwise unable to reach my computer.
@@ -21,8 +21,8 @@ live website since it impacts real users.
 
 ## Server Security
 
-  * Shell access to CyTube's servers is only available through SSH public-key
-    authentication, authorizing only the keys of CyTube administrators.
+  * Shell access to Mimic's servers is only available through SSH public-key
+    authentication, authorizing only the keys of Mimic administrators.
     Password-based authentication is disabled.
 
 ## Database Security
