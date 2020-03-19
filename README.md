@@ -9,4 +9,3 @@ The documents in this repository are specific to https://mimicstream.com/.
   * [Privacy / Data Handling](privacy.md)
   * [Help](help.md)
   * [Transparency](transparency.md)
-  * [Donations](donations.md)
