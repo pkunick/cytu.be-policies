@@ -1,6 +1,6 @@
 # Terms of Use
 
-By visiting CyTube (https://cytu.be), you agree to abide by the following rules
+By visiting Mimic (https://mimicstream.com/), you agree to abide by the following rules
 and policies.  Violations of these policies are punishable by removal of access
 to the website and in some circumstances may also result in legal action.
 
@@ -8,20 +8,20 @@ This document may be updated at any time without prior notice.
 
 ## DMCA
 
-CyTube operates in Seattle, WA, USA and hence complies with the Digital Millenium
-Copyright Act with respect to copyrighted content.  **Note that CyTube does not
+Mimic operates internationally and hence complies with the Digital Millenium
+Copyright Act in the US with respect to copyrighted content.  **Note that Mimic does not
 host audio or video content on its servers.**  Video and audio content are
 hosted on third-party websites and the links to such content are provided by
-users of the website.  CyTube does not promote or endorse any video or audio
+users of the website.  Mimic does not promote or endorse any video or audio
 content displayed on any channel.
 
 ### Copyright Holders
 
-If you in good faith believe that content is shared on CyTube without permission
+If you in good faith believe that content is shared on Mimic without permission
 from the copyright holder, and this sharing is not protected by Fair Use, please
 send a properly formatted DMCA takedown notice (see [17 U.S.C. §
-512](http://www.copyright.gov/title17/92chap5.html#512)) to cyzon@cytu.be and CC
-nuclearace@cytu.be.  Please include "DMCA" in the subject line, and include the
+512](http://www.copyright.gov/title17/92chap5.html#512)) to nick@mimicstream.com and CC
+social@mimicstream.com.  Please include "DMCA" in the subject line, and include the
 following information:
 
   * The link to the page where this content is shared.
@@ -42,24 +42,23 @@ and their right to file a counter-notice.  All DMCA takedown notices will have
 private information redacted and will be posted to the [Lumen
 database](https://lumendatabase.org/).
 
-A history of previous DMCA notices received is avilable
-[here](https://cytu.be/dmca/).
+A history of previous DMCA notices will be retained by Mimic, available by request to relevant parties.
 
 ### Channel Owners
 
-Upon receipt of a DMCA takedown notice for content shared on a channel, a CyTube
+Upon receipt of a DMCA takedown notice for content shared on a channel, a Mimic
 administrator will remove the infringing content from the channel and provide a
 copy of the takedown notice to the owner of the channel.  If the owner believes
-that the takedown notice is invalid or mistaken, they may contact cyzon@cytu.be
+that the takedown notice is invalid or mistaken, they may contact nick@mimicstream.com
 about the procedure for filing a counter-notice.
 
 Channels receiving multiple DMCA takedown notices, either for the same content
 or for different content, will be suspended or banned permanently, at the
-discretion of CyTube administrators.
+discretion of Mimic administrators.
 
 ## Use of YouTube API Services
 
-CyTube makes use of YouTube API Services in order to provide YouTube embed
+Mimic makes use of YouTube API Services in order to provide YouTube embed
 functionality.  Use of YouTube-related features is subject to the [YouTube Terms
 of Service](https://www.youtube.com/t/terms).
 
@@ -84,13 +83,12 @@ of Service](https://www.youtube.com/t/terms).
 ## Channel Content
 
   * All content, including but not limited to embedded audio and video, images,
-    and links to external content must be legal to view and share in the State
-    of Washington, USA.
+    and links to external content must be legal to view and share in the USA.
   * Legal adult content, such as pornography, is permitted only in channels
     clearly marked as 18+ in the channel title, and only when all users of the
-    channel are of legal age to view such content.  Distribution of child
-    pornography is strictly prohibited and will be reported to the relevant
-    authorities.
+    channel are of legal age to view such content, and when the channel is
+    hidden from public listing. Distribution of child pornography is strictly 
+    prohibited and will be reported to the relevant authorities.
   * Content must not attempt to circumvent the privacy or security measures of
     any user's web browser.  Please see the [security policy](security.md) for
     details.
@@ -106,7 +104,7 @@ of Service](https://www.youtube.com/t/terms).
   * Content must not disrupt the service as a whole or the experience of
     individual users.
   * Malicious or fraudulent content is prohibited.
-  * Advertisements are prohibited.
+  * Advertisements are prohibited, except where stated.
   * Donation links to support individual channels are allowed, but only if
     clearly and visibly marked to inform users that the donation is supporting
     the channel and not the website as a whole.
@@ -123,19 +121,19 @@ these rules
 
 ## Disclaimer of Liability
 
-  * Content on CyTube is provided "as-is". CyTube makes no warranties, express
+  * Content on Mimic is provided "as-is". Mimic makes no warranties, express
     or implied, and hereby disclaims and negates all other warranties,
     including, without limitation, implied warranties or conditions of
     merchantability, fitness for a particular purpose, or non-infringement of
-    intellectual property or other violation of rights. Furthermore, CyTube does
+    intellectual property or other violation of rights. Furthermore, Mimic does
     not make any representations concerning the accuracy or reliability of
-    content present on CyTube.  In no event shall the authors or operators of
-    CyTube be liable for any claim, damages, or other liability, whether in
+    content present on Mimic.  In no event shall the authors or operators of
+    Mimic be liable for any claim, damages, or other liability, whether in
     action of contract or otherwise, arising from, out of or in connection with
-    CyTube or use of CyTube.
-  * CyTube permits users to share links, embedded content, or other content
+    Mimic or use of Mimic.
+  * Mimic permits users to share links, embedded content, or other content
     insofar as the shared content complies with this agreement, United States
-    law, and where applicable, local laws. CyTube, its owners, and operators are
+    law, and where applicable, local laws. Mimic, its owners, and operators are
     not responsible for the content shared, or any consequences of sharing such
-    content. CyTube does not endorse any user-provided content. Viewing shared
+    content. Mimic does not endorse any user-provided content. Viewing shared
     content is done at the user's own risk.
