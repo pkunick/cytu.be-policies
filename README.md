@@ -10,3 +10,4 @@ The documents in this repository are specific to https://mimicstream.com/.
   * [Help](help.md)
   * [Transparency](transparency.md)
   * [Report](report.md)
+  * [Social Media Profiles](social.md)
