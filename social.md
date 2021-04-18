@@ -6,7 +6,7 @@
   * [**Medium**](https://medium.com/@mimicstream) -- https://medium.com/@mimicstream
   * [**Twitter**](https://twitter.com/Mimicstream) -- https://twitter.com/Mimicstream
   * [**Facebook**](https://www.facebook.com/mimicstream/) -- https://www.facebook.com/mimicstream/
-  * [**Discord**](https://mimicstream.com/discord.gg/WCxcVJD) -- https://mimicstream.com/discord.gg/WCxcVJD
+  * [**Discord**](https://discord.gg/WCxcVJD) -- https://discord.gg/WCxcVJD
   * [**Telegram**](https://t.me/mimicstream) -- https://t.me/mimicstream
   * [**Telegram Chat**](https://t.me/mimictalk) -- https://t.me/mimictalk
   * [**YouTube**](https://www.youtube.com/channel/UCD52nhQ7-R3kx4XeSnv5HXw) -- https://www.youtube.com/channel/UCD52nhQ7-R3kx4XeSnv5HXw
