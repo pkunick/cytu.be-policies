@@ -1,6 +1,6 @@
 # Mimic Policies and Documents
 
-**Last updated: 2020-09-03**
+**Last updated: 2021-08-08**
 
 The documents in this repository are specific to https://mimicstream.com/.  
 
