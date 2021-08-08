@@ -8,7 +8,6 @@
   * [**Facebook**](https://www.facebook.com/mimicstream/) -- https://www.facebook.com/mimicstream/
   * [**Discord**](https://discord.gg/WCxcVJD) -- https://discord.gg/WCxcVJD
   * [**Telegram**](https://t.me/mimicstream) -- https://t.me/mimicstream
-  * [**Telegram Chat**](https://t.me/mimictalk) -- https://t.me/mimictalk
   * [**YouTube**](https://www.youtube.com/channel/UCD52nhQ7-R3kx4XeSnv5HXw) -- https://www.youtube.com/channel/UCD52nhQ7-R3kx4XeSnv5HXw
   * [**LinkedIn**](https://www.linkedin.com/company/mimicstream) -- https://www.linkedin.com/company/mimicstream
   * [**AngelList**](https://angel.co/company/mimicstream) -- https://angel.co/company/mimicstream
